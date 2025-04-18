@@ -178,6 +178,8 @@ channel.basic_publish(
 각 모듈의 이름과 기능은 아래와 같이 구성됩니다.
 해당 모듈의 API 명세는 본 문서 뒷부분에서 순차적으로 소개될 예정입니다.
 
+### RobotModule
+[링크](https://github.com/portal301/SyncRo-API-Tutorial/blob/main/Modules/RobotModule.md)
 
 ## License
 This documentation is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
